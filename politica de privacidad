@@ -1,0 +1,351 @@
+# Política de Privacidad — Darithz
+
+**Versión 1.0**
+**Fecha de entrada en vigor:** 01 de julio de 2026
+**Última actualización:** 01 de julio de 2026
+
+---
+
+## Preámbulo
+
+El presente documento constituye la **Política de Privacidad** aplicable al videojuego comercialmente identificado como **Darithz** (en adelante, el "Videojuego"), distribuido a través de Apple App Store, Google Play Store y cualquier otro canal autorizado por el Responsable del Tratamiento.
+
+Esta Política regula el tratamiento de los datos personales que el Usuario (en adelante, el "Usuario" o el "Jugador") proporcione o que sean recolectados de forma automatizada como consecuencia de la instalación, ejecución o interacción con el Videojuego.
+
+El uso del Videojuego está condicionado a la aceptación de los términos esenciales de tratamiento de datos necesarios para su funcionamiento, descritos en la Sección 3.1. El tratamiento de datos opcionales —publicidad personalizada y analítica extendida— requiere consentimiento adicional, granular y revocable, conforme se detalla en la Sección 3.3.
+
+Si el Usuario no está de acuerdo con cualquiera de las cláusulas contenidas en esta Política, deberá abstenerse de instalar o utilizar el Videojuego y, en su caso, desinstalar la Aplicación de su dispositivo.
+
+---
+
+## 1. Identificación del Responsable del Tratamiento
+
+### 1.1. Datos del Responsable
+
+| Campo | Detalle |
+|---|---|
+| **Razón Social / Titular** | Moises Epifanio Peña Paredes (Empresa Unipersonal) |
+| **Documento de Identidad** | Cédula de Identidad Civil Paraguaya N° 4.499.885 |
+| **Domicilio** | Cruce Esmeralda, Filadelfia (CP 2233), Departamento de Boquerón, República del Paraguay |
+| **Nombre Comercial del Producto** | Darithz |
+| **Canal de Contacto para Privacidad** | darithz.support@gmail.com |
+
+El Responsable del Tratamiento opera bajo la figura jurídica de **Empresa Unipersonal**, ostentando la totalidad de la titularidad, gestión, control y responsabilidad sobre los datos personales tratados.
+
+### 1.2. Marco Normativo Aplicable
+
+El Responsable del Tratamiento ha alineado el tratamiento de datos personales con el siguiente marco normativo, sin perjuicio de cualquier otra normativa imperativa aplicable según la residencia del Usuario:
+
+- **República del Paraguay (domicilio del Responsable):** Ley Nº 7593/2025 "De Protección de Datos Personales en la República del Paraguay" (promulgada el 27 de noviembre de 2025), con vigencia plena a partir de noviembre de 2027. Subsidiariamente, Ley N° 6534/2020 para datos crediticios cuando aplique. Ley 1334/98 de Defensa del Consumidor para las cláusulas accesorias contractuales.
+- **Estados Unidos de América:** Children's Online Privacy Protection Act (COPPA), Final Rule de la Federal Trade Commission publicada el 22 de abril de 2025, vigente con compliance pleno desde el 22 de abril de 2026. California Consumer Privacy Act (CCPA) según enmiendas de la California Privacy Rights Act (CPRA), incluyendo las regulaciones vigentes desde el 1 de enero de 2026.
+- **Latinoamérica (otros mercados de distribución):** Lei Geral de Proteção de Dados (LGPD, Lei Nº 13.709/2018 — Brasil); Ley Federal de Protección de Datos Personales en Posesión de los Particulares (México); Ley Nº 25.326 (Argentina); Ley Nº 19.628 (Chile); Ley 1581/2012 (Colombia).
+
+### 1.3. Ámbito Geográfico de Distribución
+
+El Videojuego se distribuye y opera con foco comercial en **Latinoamérica y Estados Unidos**. **No se distribuye activamente en la Unión Europea, Reino Unido ni en el Espacio Económico Europeo**, sin perjuicio de la posibilidad técnica de descarga incidental, supuesto en el cual el Responsable podrá adoptar medidas de geo-restricción.
+
+### 1.4. Ámbito Material
+
+Esta Política se aplica a todo el tratamiento de datos personales realizado en el marco del Videojuego, incluyendo modalidades online y offline, sistema de microtransacciones (In-App Purchases), publicidad in-game, sistema de emparejamiento (matchmaking) y cualquier funcionalidad accesoria.
+
+---
+
+## 2. Datos Objeto de Tratamiento
+
+### 2.1. Datos Técnicos y de Red
+
+Para garantizar el funcionamiento del Videojuego —particularmente la modalidad multijugador— se recolectan:
+
+- **Dirección IP** (utilizada para conexión a servidores y geolocalización aproximada a nivel país).
+- **Identificador Único de Jugador (Player ID / UID)** generado por el Videojuego.
+- **Identificadores de dispositivo**, según corresponda al sistema operativo:
+  - UDID, IDFA (Identifier for Advertisers) e IDFV (Identifier for Vendors) en iOS.
+  - GAID (Google Advertising ID) en Android.
+- **Datos del dispositivo:** modelo, fabricante, sistema operativo y versión, idioma, resolución de pantalla.
+- **Datos de conexión:** tipo de conexión (WiFi / datos móviles), latencia y calidad del enlace.
+- **Datos de sesión multijugador:** derivados de Unity Netcode for GameObjects y Photon Engine — identificadores de sala, partida, timestamps de inicio/fin y flujo de mensajes de sincronización (incluyendo bolsa de dados, tiradas y estados de turno).
+
+El tratamiento de los identificadores publicitarios (IDFA / GAID) está sujeto al consentimiento previo del Usuario conforme a la Sección 3.3, mediante los protocolos **App Tracking Transparency (ATT)** de Apple y **User Messaging Platform (UMP)** de Google.
+
+### 2.2. Datos de Transacciones (In-App Purchases)
+
+El Videojuego ofrece microtransacciones de contenido cosmético ("Skins" para los dados), implementadas mediante **Unity IAP**.
+
+**Declaración expresa sobre datos financieros:**
+
+1. La totalidad de las transacciones económicas son procesadas, autorizadas, liquidadas y conservadas **exclusivamente** por Apple App Store (Apple Inc.) y Google Play Store (Google LLC).
+2. El Responsable del Tratamiento **NO recolecta, almacena, accede ni procesa** datos de tarjetas, cuentas bancarias, credenciales de billeteras digitales, códigos de verificación (CVV/CVC), fechas de vencimiento ni direcciones de facturación.
+3. El Responsable únicamente recibe un **token de validación** que confirma la compra y autoriza la entrega del contenido virtual.
+4. Toda reclamación, contracargo, reembolso o disputa relacionada con el procesamiento del pago debe dirigirse directamente a la tienda de aplicaciones correspondiente, conforme a las políticas de reembolso vigentes en cada plataforma.
+
+### 2.3. Datos de Uso y Telemetría
+
+Para mejorar el Videojuego se recolectan, condicionados al consentimiento aplicable según la Sección 3:
+
+- **Telemetría esencial (sin requerir consentimiento adicional):** partidas jugadas, victorias, derrotas, tiempo de juego, modos utilizados, logros desbloqueados, reportes de fallos (crash reports), métricas básicas de estabilidad.
+- **Telemetría analítica extendida (requiere consentimiento opt-in):** patrones detallados de comportamiento de juego, segmentación demográfica inferida, análisis predictivo.
+- **Datos de interacción publicitaria (requieren consentimiento opt-in):** impresiones, clicks, completion rates de anuncios servidos por Unity Ads y Google AdMob.
+
+### 2.4. Datos No Recolectados
+
+El Responsable **NO recolecta** las siguientes categorías:
+
+- Datos biométricos (huellas, reconocimiento facial, voz).
+- Geolocalización GPS precisa.
+- Listas de contactos, agenda telefónica o galería del dispositivo.
+- Contenido de comunicaciones personales.
+- Datos de salud, orientación sexual, convicciones religiosas, ideología política, afiliación sindical u origen racial.
+- Identificadores gubernamentales (cédulas, pasaportes, etc.) — ni siquiera para verificación de edad.
+
+---
+
+## 3. Bases Jurídicas y Finalidades del Tratamiento
+
+### 3.1. Ejecución del Contrato de Licencia (Tratamiento Esencial)
+
+El tratamiento es necesario para la ejecución del contrato de licencia de uso del Videojuego:
+
+- Proveer el servicio de matchmaking multijugador.
+- Sincronizar el estado del juego en tiempo real (bolsa de dados, tiradas, turnos).
+- Mantener la persistencia del progreso del Jugador, sus estadísticas y su inventario de Skins.
+- Entregar el contenido digital adquirido mediante IAP.
+
+**No es opcional** — sin este tratamiento, el Videojuego no puede funcionar.
+
+### 3.2. Interés Legítimo
+
+El Responsable tiene interés legítimo, debidamente ponderado frente a los derechos del Usuario, en:
+
+- La optimización técnica del motor Unity y de sus componentes.
+- La seguridad de la infraestructura y la prevención de fraude (detección de cheats, bots, abuso de recompensas).
+- La depuración mediante análisis agregado y anonimizado de reportes de fallos.
+
+El Usuario tiene derecho a oponerse al tratamiento basado en interés legítimo, conforme a la Sección 6.
+
+### 3.3. Consentimiento Específico, Previo, Libre e Informado
+
+Al ejecutar el Videojuego por primera vez, el Usuario visualizará un **Aviso de Consentimiento de Privacidad** nativo dentro de la Aplicación, **previo a la inicialización de cualquier SDK de terceros no estrictamente necesario**. Dicho aviso permitirá al Usuario, mediante acción afirmativa diferenciada (opt-in):
+
+a) Aceptar o rechazar el tratamiento de su identificador publicitario (IDFA en iOS conforme a ATT; GAID en Android conforme a UMP) para **publicidad personalizada** vía Unity Ads y/o Google AdMob.
+
+b) Aceptar o rechazar la **telemetría analítica extendida** no esencial.
+
+**El rechazo no impide el uso del Videojuego.** Implica únicamente la entrega de publicidad **no personalizada** (contextual). El Usuario podrá modificar sus preferencias en cualquier momento desde **'Configuración → Privacidad'** dentro del Videojuego.
+
+El Responsable **no inicializará** los SDKs de publicidad personalizada ni de analytics no esencial hasta recibir el consentimiento afirmativo del Usuario.
+
+### 3.4. Cumplimiento de Obligación Legal
+
+El Responsable podrá tratar y conservar datos cuando ello resulte necesario para cumplir obligaciones tributarias, contables o requerimientos legítimos de autoridades judiciales o administrativas paraguayas o de otros mercados de operación.
+
+### 3.5. Plazos de Conservación
+
+| Categoría | Plazo | Fundamento |
+|---|---|---|
+| Datos de cuenta vinculada a sistema de login externo (Google Play Games / Apple Game Center) | Mientras la cuenta esté activa + **18 meses** post-inactividad | Ejecución contractual + minimización |
+| Datos de sesión multijugador (Photon / Netcode) | Eliminación al cierre de la partida + máximo **30 días** en logs técnicos | Minimización de datos |
+| Tokens de validación de IAP | **5 años** desde la transacción | Prescripción tributaria paraguaya (Ley 125/91) |
+| Identificadores publicitarios (IDFA/GAID) en sistemas del Responsable | Durante la sesión + máximo **13 meses** | Estándar IAB |
+| Telemetría agregada y anonimizada | Indefinido | No constituye dato personal |
+| Logs de seguridad e incidentes | **12 meses**, salvo requerimiento legal | Interés legítimo / seguridad |
+| Registros de respuestas a derechos ARCO | **3 años** desde la respuesta | Defensa frente a posibles reclamaciones |
+
+---
+
+## 4. Servicios de Terceros y Transferencias Internacionales
+
+### 4.1. Proveedores Integrados
+
+El Videojuego integra los siguientes servicios prestados por terceros, los cuales pueden requerir transferencia internacional de datos personales:
+
+| Proveedor | Servicio Prestado | Política de Privacidad |
+|---|---|---|
+| Unity Technologies, Inc. (EE.UU.) | Unity Engine, Unity Netcode, Unity IAP, Unity Ads, Unity Analytics | https://unity.com/legal/privacy-policy |
+| Exit Games GmbH (Alemania) | Photon Engine (matchmaking en tiempo real) | https://www.photonengine.com/en-US/Photon/datenschutz |
+| Google LLC (EE.UU.) | Google AdMob, Google Play Services | https://policies.google.com/privacy |
+| Apple Inc. (EE.UU.) | App Store, gestión de IDFA/IDFV, validación de IAP | https://www.apple.com/legal/privacy/ |
+
+### 4.2. Naturaleza Jurídica del Tratamiento por Terceros
+
+El Responsable del Tratamiento declara, con total transparencia, que:
+
+**a) Apple Inc. y Google LLC**, en relación con el procesamiento de pagos IAP y la validación de transacciones, actúan como **Responsables del Tratamiento autónomos**. La relación financiera y de datos transaccionales se establece directamente entre el Usuario y la plataforma correspondiente.
+
+**b) Unity Technologies, Google LLC (AdMob) y Exit Games (Photon)**, en relación con sus servicios técnicos integrados en el Videojuego, actúan, según la finalidad concreta del tratamiento, como **Encargados del Tratamiento** o como **Corresponsables del Tratamiento** del Responsable. El Responsable se acoge a los Data Processing Agreements (DPA) que dichos proveedores publican para desarrolladores.
+
+**c) El Responsable asume la responsabilidad** por la decisión de integrar dichos SDKs y por la configuración de privacidad por defecto. En particular se compromete a:
+
+- Configurar los SDKs publicitarios en modo **'non-personalized ads' por defecto**, hasta tanto el Usuario otorgue consentimiento explícito.
+- Activar las banderas técnicas **'tag_for_child_directed_treatment'** en AdMob y los equivalentes en Unity Ads cuando el Usuario haya sido identificado, mediante el Age Gate (Sección 5), como menor de 13 años.
+- No transferir el identificador publicitario a redes de publicidad personalizada respecto de menores de 13 años.
+
+**d) No corresponde al Responsable auditar las prácticas internas** de Unity, Google, Apple o Exit Games. El Usuario podrá ejercer sus derechos directamente ante cada proveedor conforme a los canales que éstos disponen, sin perjuicio de su derecho a dirigirse al Responsable como punto de entrada único de su solicitud.
+
+### 4.3. Transferencias Internacionales
+
+Los datos pueden ser transferidos a Estados Unidos, Alemania u otros países donde los proveedores citados operen su infraestructura. Estas transferencias se realizan amparadas en los compromisos contractuales suscritos por dichos proveedores y, una vez plenamente vigente la Ley Nº 7593/2025 (noviembre 2027), conforme a los mecanismos de garantías adecuadas que la ANPDP defina (cláusulas contractuales tipo, certificaciones, normas corporativas vinculantes).
+
+---
+
+## 5. Política de Menores de Edad
+
+### 5.1. Clasificación del Videojuego
+
+Darithz se cataloga como un **servicio de audiencia mixta (*mixed audience service*)** bajo COPPA actualizada (Final Rule FTC, vigente desde el 22 de abril de 2026). Aunque el Videojuego no está diseñado, dirigido ni promocionado activamente hacia menores como audiencia primaria, el Responsable reconoce que su estética y mecánicas pueden resultar atractivas para usuarios menores de 13 años, y aplica las medidas correspondientes.
+
+### 5.2. Filtro de Edad Neutral
+
+En la primera ejecución del Videojuego, **previo a la recolección de cualquier dato personal no estrictamente necesario**, el Usuario deberá completar un **filtro de edad neutral**: ingreso de fecha de nacimiento (día/mes/año), sin opciones predeterminadas, sin redirección sugestiva, y sin posibilidad de retroceder e introducir una fecha alternativa dentro de la misma sesión.
+
+### 5.3. Tratamiento Diferenciado por Tramos de Edad
+
+**a) Usuarios identificados como menores de 13 años:**
+
+- **Modo COPPA-compliant** activado por defecto: desactivación de toda publicidad personalizada, desactivación de Unity Ads y AdMob con segmentación publicitaria, desactivación de analytics de comportamiento, no transmisión del IDFA/GAID a redes publicitarias.
+- Publicidad estrictamente **contextual y no personalizada**, servida con la bandera `tag_for_child_directed_treatment = true`.
+- Las compras integradas requerirán los mecanismos nativos de **autenticación parental** de la tienda (Family Sharing en iOS; aprobación parental en Google Play).
+- No recolección de información personal del menor más allá de lo necesario para el "support for internal operations" según la definición de la Final Rule COPPA.
+- Padres, madres o tutores podrán solicitar acceso, supresión o cese del tratamiento mediante el canal de la Sección 6, **sin que se exija al menor crear cuenta, registrarse o aportar datos adicionales**.
+
+**b) Usuarios entre 13 y 16 años (residentes en California, EE.UU.):**
+
+- Conforme a CCPA/CPRA, la venta o compartición de información personal para fines de publicidad conductual cross-context requerirá **opt-in afirmativo** explícito.
+- Por defecto, la configuración será de **publicidad no personalizada**.
+
+**c) Usuarios entre 16 y 18 años (residentes en Paraguay):**
+
+- Conforme a la Ley Nº 7593/2025, el tratamiento de datos personales requerirá el **consentimiento conjunto del menor y de quien ejerza la patria potestad** (cuando la reglamentación de la ANPDP detalle el mecanismo de verificación).
+- En la práctica operativa, dada la imposibilidad técnica razonable de verificación robusta, el tratamiento se limitará al estándar más protector aplicable (modo no-personalizado) hasta que dicha reglamentación esté disponible.
+
+### 5.4. Procedimiento ante Recolección Inadvertida
+
+Si el Responsable detecta o es notificado de que ha recolectado datos personales de un menor sin las garantías exigidas, procederá a **suprimir los datos en un plazo no mayor a 10 días hábiles**, sin requerir más verificación de identidad del solicitante que la razonable para evitar usos abusivos del derecho.
+
+### 5.5. Compras Integradas y Controles Parentales
+
+El Responsable se apoya en los mecanismos nativos de control parental de Apple App Store y Google Play Store. **No obstante, el Responsable no traslada al Usuario menor ni a sus padres la totalidad de la responsabilidad**: si se acredita que el sistema del Responsable falló en aplicar el modo COPPA-compliant al detectar un menor, el Responsable asumirá las consecuencias correspondientes y facilitará el reembolso, sin perjuicio del rol de las tiendas de aplicaciones.
+
+---
+
+## 6. Derechos del Usuario
+
+### 6.1. Catálogo de Derechos
+
+El Usuario goza de los siguientes derechos respecto de sus datos personales:
+
+- **Acceso:** confirmar si se tratan datos personales que le conciernen y acceder a ellos.
+- **Rectificación:** obtener la corrección de datos inexactos o incompletos.
+- **Supresión ("derecho al olvido"):** obtener la eliminación de sus datos cuando concurran las circunstancias legales.
+- **Oposición:** oponerse al tratamiento basado en interés legítimo por motivos relacionados con su situación particular.
+- **Limitación del tratamiento.**
+- **Portabilidad:** recibir sus datos en formato estructurado y de lectura mecánica.
+- **Revocación del consentimiento** en cualquier momento, sin efecto retroactivo sobre el tratamiento previo lícito.
+- **No ser objeto de decisiones automatizadas** con efectos jurídicos significativos.
+- **Reclamar ante la autoridad de control competente** (ANPDP en Paraguay, una vez constituida; CPPA y FTC en EE.UU.; ANPD en Brasil; INAI en México; SIC en Colombia; AAIP en Argentina; APDP en Chile).
+
+### 6.2. Canal Oficial para el Ejercicio de Derechos
+
+> **Correo electrónico:** darithz.support@gmail.com
+> **Asunto sugerido:** "Ejercicio de Derechos de Protección de Datos — [Tipo de Derecho]"
+
+### 6.3. Requisitos Formales de la Solicitud
+
+A efectos de tramitar la solicitud, el Usuario deberá aportar:
+
+1. **Identificación inequívoca:** nombre completo y, si lo desea, copia de documento de identidad (preferentemente con datos no esenciales tachados).
+2. **Identificador de Jugador (Player ID / UID)** dentro del Videojuego, cuando aplique.
+3. **Descripción clara** del derecho que se desea ejercer.
+4. **Dirección a efectos de notificaciones** (correo electrónico válido).
+
+Para solicitudes relativas a menores de edad presentadas por padres, madres o tutores, **no se exigirá al menor crear cuenta, registrarse o aportar datos adicionales**.
+
+### 6.4. Plazo de Respuesta
+
+El Responsable atenderá las solicitudes en **30 días naturales** desde la recepción, prorrogables por hasta **60 días naturales adicionales** en casos de complejidad o volumen, comunicándolo previamente al Usuario.
+
+---
+
+## 7. Seguridad de los Datos
+
+### 7.1. Medidas Técnicas y Organizativas
+
+El Responsable ha implementado medidas razonables y proporcionales al tamaño y naturaleza de la operación de una Empresa Unipersonal, incluyendo:
+
+- Canales de comunicación cifrados (TLS / HTTPS) para toda transmisión de datos.
+- Selección de proveedores con estándares reconocidos (ISO 27001 o equivalentes).
+- Acceso restringido a los datos por parte del Responsable.
+- Configuración por defecto en modo no-personalizado para todos los SDKs publicitarios.
+- Implementación del Age Gate y modo COPPA-compliant para menores.
+
+### 7.2. Notificación de Incidentes
+
+En caso de brecha de seguridad notificable, el Responsable cumplirá con las obligaciones de notificación que las jurisdicciones aplicables establezcan (incluyendo, una vez vigente, los plazos que la Ley 7593/2025 y la reglamentación de la ANPDP definan).
+
+### 7.3. Reconocimiento de Limitaciones
+
+Ningún sistema informático conectado a Internet puede garantizar inviolabilidad absoluta. El Responsable se compromete a una conducta diligente y proactiva, no a un resultado de seguridad absoluta, conforme al estado de la técnica disponible.
+
+---
+
+## 8. Modificaciones a la Política de Privacidad
+
+### 8.1. Reserva del Derecho de Modificación
+
+El Responsable podrá modificar esta Política para adaptarla a cambios normativos, nuevas funcionalidades del Videojuego, recomendaciones de autoridades de control o mejoras de transparencia.
+
+### 8.2. Publicación y Notificación
+
+Toda modificación entrará en vigor a partir de su publicación, indicada por el campo "Última actualización" al inicio del documento. La versión vigente será accesible:
+
+- Dentro del Videojuego (menú 'Configuración → Privacidad').
+- En la ficha del Videojuego en Apple App Store y Google Play Store.
+- En el repositorio oficial del proyecto.
+
+### 8.3. Modificaciones Sustanciales
+
+Cuando una modificación afecte sustancialmente a los derechos del Usuario o introduzca nuevas finalidades de tratamiento, el Responsable procurará notificarla mediante un aviso destacado al inicio de la siguiente sesión de juego y, **cuando legalmente sea exigible, recabará nuevo consentimiento explícito del Usuario**. El uso continuado del Videojuego sin renovar el consentimiento, en los casos en que éste sea jurídicamente requerido, no será considerado consentimiento válido.
+
+---
+
+## 9. Disposiciones Finales
+
+### 9.1. Naturaleza del Documento
+
+La presente Política de Privacidad constituye un **aviso informativo** exigido por la normativa aplicable, no un contrato. Los términos contractuales del uso del Videojuego (licencia de uso, condiciones comerciales, limitaciones de responsabilidad, jurisdicción aplicable) están contenidos en un documento independiente denominado **Términos y Condiciones de Uso (EULA)**, que el Usuario acepta al instalar y ejecutar el Videojuego.
+
+### 9.2. Idioma
+
+La versión auténtica y vinculante de esta Política es la redactada en idioma español. Las traducciones a otros idiomas tendrán carácter meramente informativo. En caso de discrepancia, prevalecerá la versión en español.
+
+### 9.3. Nulidad Parcial
+
+Si alguna cláusula fuese declarada nula o inaplicable por autoridad competente, ello no afectará la validez del resto, que conservará plena fuerza y efecto.
+
+### 9.4. Legislación Aplicable
+
+Esta Política se rige por la legislación de la **República del Paraguay**, sin perjuicio de las normas imperativas de protección al consumidor y protección de datos personales que las jurisdicciones de residencia de los Usuarios reconozcan como irrenunciables.
+
+### 9.5. Registro ante la Autoridad de Control
+
+El Responsable se compromete a inscribir el presente tratamiento ante la **Agencia Nacional de Protección de Datos Personales (ANPDP) de la República del Paraguay** en cuanto dicha autoridad habilite los mecanismos de registro correspondientes y conforme a los plazos que la reglamentación de la Ley Nº 7593/2025 establezca.
+
+### 9.6. Contacto
+
+Para cualquier consulta, sugerencia o reclamación relativa a esta Política o al tratamiento de datos personales en el Videojuego:
+
+> **Correo electrónico:** darithz.support@gmail.com
+>
+> **Responsable:** Moises Epifanio Peña Paredes
+>
+> **Domicilio:** Cruce Esmeralda, Filadelfia (CP 2233), Departamento de Boquerón, República del Paraguay
+
+---
+
+**Versión:** 1.0
+**Fecha de entrada en vigor:** 01 de julio de 2026
+**Responsable del Tratamiento:** Moises Epifanio Peña Paredes
+**Producto:** Darithz
+
+---
+
+*© 2026 Moises Epifanio Peña Paredes. Todos los derechos reservados.*
